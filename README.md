@@ -48,10 +48,5 @@
  * Developer: Eng. Ayman Ahmed Al-Khobaji
  * GitHub: @aymnalkhbjy22
  * Specialty: Cybersecurity & Software    .
- *
- * اه.
-2. الصقه في الصفحة المفتوحة أمامك مكان عبارة `Enter fi
-l
-   e contents here`.
-3. اضغط على الزر الأزرق **"حفظ التغييرات..."** (**Commit changes**) وستظهر واجهة مستودعك مرتبة وأنيقة فوراًفظ التغييرات..."** (**Commit changes**) وستظهر واجهة مستودعك مرتبة وأنيقة فوراًommit changes**) وستظهر واجهة مستودعك مرتبة وأنيقة فوراً.
+ 
 
